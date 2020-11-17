@@ -4,6 +4,7 @@
 
 1. Fork
 1. Clone
+1. create a file called `cars.rb` to write you code in
 
 ![](https://i.giphy.com/11eMJrshugz1PW.gif)
 
