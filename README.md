@@ -4,7 +4,6 @@
 
 1. Fork
 1. Clone
-1. Pull Request
 
 ![](https://i.giphy.com/11eMJrshugz1PW.gif)
 
